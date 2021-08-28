@@ -1,1 +1,1 @@
-# drag_drop_img
+Drag and drop image and gif uploader.
